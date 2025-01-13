@@ -1,2 +1,2 @@
 # M365-Lab
-Development, RnD projects for M365
+Development, and RnD projects for M365
